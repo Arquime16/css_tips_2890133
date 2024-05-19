@@ -6,4 +6,15 @@
     margin: 0 auto;
     width: 70ch;
 }
+p:first-of-type::first-letter{
+    font-size: 4em;
+    float: left;
+    float:inline-start;
+    margin: 0 .1em .1em 0;
+    padding: .2em .1em;
+    background-color: antiquewhite;
+    color:blue;
+    text-shadow: 3px 3px 0 burlywood;
+
+}
 

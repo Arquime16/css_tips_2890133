@@ -1,8 +1,8 @@
 :root {
     --key-color: purple;
-    --box-unit: 1rem;
-    --box-offset: calc(var(--box-unit) * 1);
-    --box-padding: var(--box-unit);
+    --box-unit: .5rem;
+    --box-offset: calc(var(--box-unit) * 2);
+    --box-padding: calc(var(--box-unit) * 1.5);
     --box-border: calc(var(--box-unit) / 2);
 }
 
